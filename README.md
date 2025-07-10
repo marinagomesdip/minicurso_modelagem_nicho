@@ -23,23 +23,18 @@ Este minicurso oferece uma introdução teorico-prática à Modelagem de Nicho E
 - O que é um modelo de nicho;
 - O que é necessário para modelar o nicho de uma espécie;
 - Exemplos de pesquisas que utilizaram a modelagem.
+Além disso, esse minicurso oferece uma introdução prática aos programas e pacotes que estimam a Modelagem de Nicho Ecológico (MNE). Além de conhecer a teoria, a MNE exige uma série de etapas de preparação dos dados e conhecimento sobre linguagem básica de programação em R. O segundo dia de minicurso abordará uma prática com o uso de um pacote do programa R conhecido como Ntoolbox. 
 
 ## Instruções aos participantes
 
 **Requisitos básicos**  
 Será necessárioa utilização de notebook ou desktop
 
-## Slides
+## Arquivos
 
-[Aula 1 - Introdução](https://drive.google.com/file/d/1GAnSa_vhZHbPw41DoK3bPzCycYeTz5Pt/view?usp=drive_link)
+[Aula 1 - Gráficos](https://github.com/marinagomesdip/minicurso-analisebiodiversidade-r/blob/main/Scripts/Aula%20%202%20-%20Gr%C3%A1ficos.R) <br>
 
-[Aula 1 - Gráficos](https://drive.google.com/file/d/13OLXXMcH7eZDLlnnMKKl3CtRboyoulr5/view?usp=sharing)
-
-[Aula 2 - Geoespacial](https://drive.google.com/file/d/16SY17GBHTw0U_WtdGpIXlEIm7wnOSGv5/view?usp=drive_link)
-
-## Práticas
-
-[Aula Gráficos](https://drive.google.com/file/d/1ICTJYpp_V0zw7IhIc5LrNDqc_G6-sv4k/view?usp=drive_link)
+[Aula 2 - Dados geoespaciais](https://github.com/marinagomesdip/minicurso-analisebiodiversidade-r/blob/main/Scripts/Aula%203%20-%20Dados%20Geoespaciais.R) <br>
 
 ## Scripts
 
@@ -50,11 +45,3 @@ Será necessárioa utilização de notebook ou desktop
 ## Tutoriais
 
 [Tutorial Instalação e Conexão GitHub](https://drive.google.com/file/d/1eor5LsZhal5-l2ZYjXWPTXCNQyFm3S1n/view?usp=drive_link)
-
-
-## FEEDBACK
-
-Por favor, ao terminar o minicurso, me diga o que você achou dele, para que possa melhora-lo. 
-
-[Feedback](https://forms.gle/xi1z9SwBJ4a1HVx97)
-
