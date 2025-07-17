@@ -6,4 +6,16 @@
 
 #1. Saia do RStudio e instale o RTools de acordo com o tutorial do curso
 
-#2. Instale o devtools package
+#2. Instale o devtools package:
+if (!require('devtools')) 
+  install.packages('devtools')
+
+#3. Instale o nichetoolbox package:
+library(devtools)
+devtools::install_github("luismurao/ntbox")
+
+#abrindo a plataforma shiny no R --------------------------------------
+#carregue o pacote
+library(ntbox)
+
+run_ntbox()
