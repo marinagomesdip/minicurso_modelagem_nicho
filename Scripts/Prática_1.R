@@ -3,3 +3,7 @@
 #gomes.mari.95@gmail.com
 
 #instalando os pacotes requeridos -------------------------------------
+
+#1. Saia do RStudio e instale o RTools de acordo com o tutorial do curso
+
+#2. Instale o devtools package
