@@ -25,6 +25,9 @@ Este minicurso oferece uma introdução teorico-prática à Modelagem de Nicho E
 - Exemplos de pesquisas que utilizaram a modelagem.
 Além disso, esse minicurso oferece uma introdução prática aos programas e pacotes que estimam a Modelagem de Nicho Ecológico (MNE). Além de conhecer a teoria, a MNE exige uma série de etapas de preparação dos dados e conhecimento sobre linguagem básica de programação em R. O segundo dia de minicurso abordará uma prática com o uso de um pacote do programa R conhecido como Ntoolbox. 
 
+
+E-mail: marinagomesdiptera@mn.ufrj
+
 ## Instruções aos participantes
 
 **Requisitos básicos**  
