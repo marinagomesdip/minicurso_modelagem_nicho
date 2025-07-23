@@ -27,7 +27,7 @@ Além disso, esse minicurso oferece uma introdução prática aos programas e pa
 
 
 E-mail: marinagomesdiptera@mn.ufrj
-
+durval.ss@mn.ufrj.br
 ## Instruções aos participantes
 
 **Requisitos básicos**  
