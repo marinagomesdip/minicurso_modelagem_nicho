@@ -32,16 +32,20 @@ Será necessárioa utilização de notebook ou desktop
 
 ## Arquivos
 
-[Aula 1 - Gráficos](https://github.com/marinagomesdip/minicurso-analisebiodiversidade-r/blob/main/Scripts/Aula%20%202%20-%20Gr%C3%A1ficos.R) <br>
+[Slides]() <br>
 
-[Aula 2 - Dados geoespaciais](https://github.com/marinagomesdip/minicurso-analisebiodiversidade-r/blob/main/Scripts/Aula%203%20-%20Dados%20Geoespaciais.R) <br>
+[Lista de Referências]() <br>
+
+[Dados para prática](https://github.com/marinagomesdip/minicurso_modelagem_nicho/tree/main/Data) <br>
 
 ## Scripts
 
-[Aula 1 - Gráficos](https://github.com/marinagomesdip/minicurso-analisebiodiversidade-r/blob/main/Scripts/Aula%20%202%20-%20Gr%C3%A1ficos.R) <br>
+[NtoolBox](https://github.com/marinagomesdip/minicurso_modelagem_nicho/blob/main/Scripts/Pr%C3%A1tica_1.R) <br>
 
-[Aula 2 - Dados geoespaciais](https://github.com/marinagomesdip/minicurso-analisebiodiversidade-r/blob/main/Scripts/Aula%203%20-%20Dados%20Geoespaciais.R) <br>
+[Recorte de Variáveis](https://github.com/marinagomesdip/minicurso_modelagem_nicho/blob/main/Scripts/Script_Recorte_Rasters_WorldClim.R) <br>
 
 ## Tutoriais
 
-[Tutorial Instalação e Conexão GitHub](https://drive.google.com/file/d/1eor5LsZhal5-l2ZYjXWPTXCNQyFm3S1n/view?usp=drive_link)
+[Tutorial Instalação dos Programas](https://github.com/marinagomesdip/minicurso_modelagem_nicho/blob/main/Tutoriais/Tutorial_instalacao.pdf)
+
+[Tutorial Aula - Ntoolbox Shiny](https://github.com/marinagomesdip/minicurso_modelagem_nicho/blob/main/Tutoriais/Roteiro%20Pr%C3%A1tica.pdf)
